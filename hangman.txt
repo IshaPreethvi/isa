@@ -1,4 +1,4 @@
-
+#it shows complete illustration of hangman game
 # Python Program to illustrate  
 # Hangman Game 
 import random 
