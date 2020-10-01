@@ -1,5 +1,5 @@
 # isa
-
+#made for fun only
 # Python Program to illustrate  
 # Hangman Game 
 import random 
